@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn import mixture
 
 # Expectation-Maximization clustering algorithm for Hydration III project
-
+# test
 # This article explains how the algorithm works:
 # https://towardsdatascience.com/implement-expectation-maximization-em-algorithm-in-python-from-scratch-f1278d1b9137
 # This example shows how the algorithm works
