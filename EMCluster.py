@@ -11,7 +11,7 @@ from sklearn import mixture
 
 
 # Parameters:
-n_clusters = 5 # Defines the number of clusters
+n_clusters = 8 # Defines the number of clusters
 
 # Read drilling data from the csv file
 # Columns: time_s cpu_t_degC motor_command active_power_W current_mA arduino_timestamp_ms tacho_rpm imu_x_g imu_y_g imu_z_g WeightOnBit DrillZ1Position_m Formation ROP formation_change
